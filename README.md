@@ -1,5 +1,5 @@
 # DiabetesClassification
-Utilized data from https://www.kaggle.com/uciml/pima-indians-diabetes-database to try and classify whether or not someone had diabetes using Python.
+Utilized data from https://www.kaggle.com/uciml/pima-indians-diabetes-database to try and predict whether or not someone had diabetes using Python.
 
 Ways to improve the model:
 1) input feature bucketing (create new variables for blood pressure
